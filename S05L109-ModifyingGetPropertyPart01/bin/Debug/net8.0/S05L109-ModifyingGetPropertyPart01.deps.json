@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "S05L109-ModifyingGetPropertyPart01/1.0.0": {
+        "runtime": {
+          "S05L109-ModifyingGetPropertyPart01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S05L109-ModifyingGetPropertyPart01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

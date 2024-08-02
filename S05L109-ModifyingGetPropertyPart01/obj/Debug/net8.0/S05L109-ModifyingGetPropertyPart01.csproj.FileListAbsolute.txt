@@ -1,0 +1,14 @@
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\bin\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.exe
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\bin\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.deps.json
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\bin\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.runtimeconfig.json
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\bin\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\bin\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.pdb
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\obj\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\obj\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.AssemblyInfoInputs.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\obj\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.AssemblyInfo.cs
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\obj\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.csproj.CoreCompileInputs.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\obj\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\obj\Debug\net8.0\refint\S05L109-ModifyingGetPropertyPart01.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\obj\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.pdb
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\obj\Debug\net8.0\S05L109-ModifyingGetPropertyPart01.genruntimeconfig.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L109-ModifyingGetPropertyPart01\obj\Debug\net8.0\ref\S05L109-ModifyingGetPropertyPart01.dll

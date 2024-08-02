@@ -6,6 +6,15 @@ internal class Car
     private string _model = "";
     private string _brand = "";
 
+    // constructor
+    public Car(string model, string brand)
+    {
+        _model = model;
+        _brand = brand;
+        Console.WriteLine($"An {_brand} of the model {_model} has been created");
+    }
+    
+    // Property:
     public string Model
     {
         get => _model;
@@ -27,13 +36,5 @@ internal class Car
                 _brand = value;    
             }
         }
-    }
-
-    // constructor
-    public Car(string model, string brand)
-    {
-        _model = model;
-        _brand = brand;
-        Console.WriteLine($"An {_brand} of the model {_model} has been created");
     }
 }

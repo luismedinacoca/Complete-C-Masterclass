@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S05L108-DefiningAPropertySet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5220bbac494a29ac99a94d6caba6e465d4f3391e")]
 [assembly: System.Reflection.AssemblyProductAttribute("S05L108-DefiningAPropertySet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S05L108-DefiningAPropertySet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
