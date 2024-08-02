@@ -1,0 +1,14 @@
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\bin\Debug\net8.0\S05L105-CreateFirstOwnClass.exe
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\bin\Debug\net8.0\S05L105-CreateFirstOwnClass.deps.json
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\bin\Debug\net8.0\S05L105-CreateFirstOwnClass.runtimeconfig.json
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\bin\Debug\net8.0\S05L105-CreateFirstOwnClass.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\bin\Debug\net8.0\S05L105-CreateFirstOwnClass.pdb
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\obj\Debug\net8.0\S05L105-CreateFirstOwnClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\obj\Debug\net8.0\S05L105-CreateFirstOwnClass.AssemblyInfoInputs.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\obj\Debug\net8.0\S05L105-CreateFirstOwnClass.AssemblyInfo.cs
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\obj\Debug\net8.0\S05L105-CreateFirstOwnClass.csproj.CoreCompileInputs.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\obj\Debug\net8.0\S05L105-CreateFirstOwnClass.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\obj\Debug\net8.0\refint\S05L105-CreateFirstOwnClass.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\obj\Debug\net8.0\S05L105-CreateFirstOwnClass.pdb
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\obj\Debug\net8.0\S05L105-CreateFirstOwnClass.genruntimeconfig.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L105-CreateFirstOwnClass\obj\Debug\net8.0\ref\S05L105-CreateFirstOwnClass.dll

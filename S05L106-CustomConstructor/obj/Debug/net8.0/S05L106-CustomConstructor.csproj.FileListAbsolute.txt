@@ -1,0 +1,14 @@
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\bin\Debug\net8.0\S05L106-CustomConstructor.exe
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\bin\Debug\net8.0\S05L106-CustomConstructor.deps.json
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\bin\Debug\net8.0\S05L106-CustomConstructor.runtimeconfig.json
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\bin\Debug\net8.0\S05L106-CustomConstructor.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\bin\Debug\net8.0\S05L106-CustomConstructor.pdb
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\obj\Debug\net8.0\S05L106-CustomConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\obj\Debug\net8.0\S05L106-CustomConstructor.AssemblyInfoInputs.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\obj\Debug\net8.0\S05L106-CustomConstructor.AssemblyInfo.cs
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\obj\Debug\net8.0\S05L106-CustomConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\obj\Debug\net8.0\S05L106-CustomConstructor.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\obj\Debug\net8.0\refint\S05L106-CustomConstructor.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\obj\Debug\net8.0\S05L106-CustomConstructor.pdb
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\obj\Debug\net8.0\S05L106-CustomConstructor.genruntimeconfig.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L106-CustomConstructor\obj\Debug\net8.0\ref\S05L106-CustomConstructor.dll

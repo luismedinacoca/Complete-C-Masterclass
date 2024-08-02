@@ -1,0 +1,14 @@
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\bin\Debug\net8.0\S05L107-ProtectOurMemberVariable.exe
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\bin\Debug\net8.0\S05L107-ProtectOurMemberVariable.deps.json
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\bin\Debug\net8.0\S05L107-ProtectOurMemberVariable.runtimeconfig.json
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\bin\Debug\net8.0\S05L107-ProtectOurMemberVariable.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\bin\Debug\net8.0\S05L107-ProtectOurMemberVariable.pdb
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\obj\Debug\net8.0\S05L107-ProtectOurMemberVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\obj\Debug\net8.0\S05L107-ProtectOurMemberVariable.AssemblyInfoInputs.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\obj\Debug\net8.0\S05L107-ProtectOurMemberVariable.AssemblyInfo.cs
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\obj\Debug\net8.0\S05L107-ProtectOurMemberVariable.csproj.CoreCompileInputs.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\obj\Debug\net8.0\S05L107-ProtectOurMemberVariable.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\obj\Debug\net8.0\refint\S05L107-ProtectOurMemberVariable.dll
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\obj\Debug\net8.0\S05L107-ProtectOurMemberVariable.pdb
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\obj\Debug\net8.0\S05L107-ProtectOurMemberVariable.genruntimeconfig.cache
+C:\Users\Luis\RiderProjects\CompleteCSharpMasterClass\S05L107-ProtectOurMemberVariable\obj\Debug\net8.0\ref\S05L107-ProtectOurMemberVariable.dll
